@@ -1,0 +1,31 @@
+.container-nav {
+    justify-content: center;
+}
+
+.container-nav  h1{
+    margin-bottom: 10px;
+}
+.showcase {
+    height: calc(100% - 118px);
+}
+
+.container-showcase p {
+    width: 90%;
+}
+
+.about-text-left {
+    width: 100%;
+}
+
+.about-text-right {
+    width: 100%;
+}
+
+.testimonial-text-left {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.testimonial-text-right {
+    width: 100%;
+}
